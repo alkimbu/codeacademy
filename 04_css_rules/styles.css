@@ -51,6 +51,8 @@ body {
   
   .caption {
     display: block;
+    background-color: white;
+    color: black;
     font-family: 'Playfair Display', serif;
     font-size: 14px;
     font-style: italic;
